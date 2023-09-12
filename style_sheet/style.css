@@ -9,7 +9,22 @@
         overflow: hidden;
         transform: translate(0vw, 0vh);
         /* border: black solid; */
-        font-size: 0.75rem;
+        font-size: 0.6rem;
+    }
+
+    .title {
+        font-family: 'Open Sans', sans-serif;
+        text-align: left;
+    }
+
+    .content {
+        font-family: 'Open Sans', sans-serif;
+        text-align: left;
+    }
+
+    .link {
+        font-family: 'Open Sans', sans-serif;
+        text-align: left;
     }
 
 
@@ -19,7 +34,7 @@
         align-items: center;
         /* justify-content: center; */
         height: auto;
-        width: 70%;
+        width: 85%;
         margin-bottom: 2%;
         background-color: white;
         overflow: hidden;
@@ -84,7 +99,7 @@
 
     #content_column {
         height: 50%;
-        width: 70%;
+        width: 85%;
         background-color: white;
         transform: translate(0vw, 0vh);
         /* border: black solid; */
