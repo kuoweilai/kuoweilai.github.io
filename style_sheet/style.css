@@ -281,7 +281,7 @@
         height: auto;
         width: 100%;
         background-color: white;
-        /* margin-top: 5%; */
+        margin-bottom: 5%;
         overflow: hidden;
         transform: translate(0%, 0%);
         /* border: black solid; */
