@@ -169,6 +169,9 @@
         /* border: black solid; */
         white-space: normal;
     }
+    .section_content ul {
+        padding-left: 1em;
+    }
 
     #about_block {
         margin-top: 4%;
