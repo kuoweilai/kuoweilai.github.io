@@ -148,6 +148,7 @@
         text-align: left;
         display: flex;
         align-items: center;
+        justify-content: center;
         width: auto;
         height: 32px;
         transform: translate(0%, 0%);
@@ -160,9 +161,9 @@
         text-align: left;
         display: flex;
         flex-direction: column;
-        align-items: center;
+        /* align-items: center; */
         justify-content: center;
-        width: 100%;
+        width: 90%;
         height: auto;
         transform: translate(0%, 0%);
         /* border: black solid; */
